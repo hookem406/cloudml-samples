@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/anaconda3/bin/python",
+    "python.dataScience.sendSelectionToInteractiveWindow": true,
+    "python.jediPath": "/Users/justinwallander/Desktop/anaconda3/pkgs/jedi-0.13.2-py37_0/lib/python3.7/site-packages"
+}
